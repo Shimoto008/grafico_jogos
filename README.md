@@ -18,15 +18,15 @@ Este é um simples projeto que realiza uma análise de dados de vendas de jogos 
 
 ### 1. Faturamento por Jogo
 ![faturamento_por_Jogo]
-(faturamento_jogos.png)
+(graficos/faturamento_jogos.png)
 
 ### 2. Faturamento por Plataforma
 ![faturamento_por_plataforma]
-(faturamento_jogos.png)
+(graficos/faturamento_jogos.png)
 
 ### 3. Participação dos Jogos no Faturamento
 ![Grafico_de_pizza]
-(participação_jogos.png)
+(graficos/participação_jogos.png)
 
 ## Como executar
 
