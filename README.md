@@ -36,13 +36,16 @@ python analise.py
 ## Visualizações
 
 ### 1. Faturamento por Jogo
-![Faturamento por Jogo](graficos/grafico_jogos.png)
+![faturamento_jogos](https://github.com/user-attachments/assets/781474f5-cb41-48e2-ac50-697e13032795)
+
 
 ### 2. Faturamento por Plataforma
-![Faturamento por Plataforma](graficos/grafico_plataforma.png)
+![faturamento_plataforma](https://github.com/user-attachments/assets/2fe14b7e-63a2-434b-a0da-0491e718bfbb)
+
 
 ### 3. Participação dos Jogos no Faturamento (Gráfico de Pizza)
-![Grafico de Pizza](graficos/grafico_pizza.png)
+![participação_jogos](https://github.com/user-attachments/assets/15070350-efa1-42f9-a0a8-b433559966cd)
+
 
 ## Pré-requisitos
 
